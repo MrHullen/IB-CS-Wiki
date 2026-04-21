@@ -1,6 +1,6 @@
 # Central Processing Unit (CPU)
 
-[[System_Fundamentals_Index|← Back to System Fundamentals Index]]
+[[System Fundamentals Index|← Back to System Fundamentals Index]]
 
 The Central Processing Unit (CPU) is the "brain" of the computer. It processes instructions and performs calculations. The CPU contains several important components that work together to execute programs.
 
@@ -57,4 +57,4 @@ The **MDR** (Memory Data Register) holds the actual data being transferred.
 
 ---
 
-[[System_Fundamentals_Index|← Back to System Fundamentals Index]]
+[[System Fundamentals Index|← Back to System Fundamentals Index]]

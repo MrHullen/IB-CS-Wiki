@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
+                "file": "System Fundamentals Index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Welcome"
+              "title": "System Fundamentals Index"
             }
           }
         ]
@@ -201,7 +201,12 @@
   },
   "active": "b0ba35eb1d7bec3e",
   "lastOpenFiles": [
-    "Untitled.base",
-    "Welcome.md"
+    "B2.1.1_Variables.md",
+    "IB_CS_Syllabus.md",
+    "Style_Guide.md",
+    "Central Processing Unit.md",
+    "Welcome.md",
+    "System Fundamentals Index.md",
+    "Untitled.base"
   ]
 }
